@@ -482,7 +482,9 @@ nav ul li:hover::after {
   align-items: center;
   position: relative;
 }
-
+.imagenes{
+diplay: flex;
+}
 .imagenes img {
   width: 200px;
   height: auto;
